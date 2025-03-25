@@ -1,0 +1,7 @@
+C:\Users\адм\Desktop\c#\Encapsulation_Inheritance\Encapsulation_Inheritance\bin\Debug\Encapsulation_Inheritance.exe.config
+C:\Users\адм\Desktop\c#\Encapsulation_Inheritance\Encapsulation_Inheritance\bin\Debug\Encapsulation_Inheritance.exe
+C:\Users\адм\Desktop\c#\Encapsulation_Inheritance\Encapsulation_Inheritance\bin\Debug\Encapsulation_Inheritance.pdb
+C:\Users\адм\Desktop\c#\Encapsulation_Inheritance\Encapsulation_Inheritance\obj\Debug\Encapsulation_Inheritance.csproj.AssemblyReference.cache
+C:\Users\адм\Desktop\c#\Encapsulation_Inheritance\Encapsulation_Inheritance\obj\Debug\Encapsulation_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\адм\Desktop\c#\Encapsulation_Inheritance\Encapsulation_Inheritance\obj\Debug\Encapsulation_Inheritance.exe
+C:\Users\адм\Desktop\c#\Encapsulation_Inheritance\Encapsulation_Inheritance\obj\Debug\Encapsulation_Inheritance.pdb
