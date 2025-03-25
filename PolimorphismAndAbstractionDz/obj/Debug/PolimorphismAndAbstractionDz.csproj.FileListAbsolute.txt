@@ -1,0 +1,7 @@
+C:\Users\адм\Desktop\c#\PolimorphismAndAbstractionDz\PolimorphismAndAbstractionDz\bin\Debug\PolimorphismAndAbstractionDz.exe.config
+C:\Users\адм\Desktop\c#\PolimorphismAndAbstractionDz\PolimorphismAndAbstractionDz\bin\Debug\PolimorphismAndAbstractionDz.exe
+C:\Users\адм\Desktop\c#\PolimorphismAndAbstractionDz\PolimorphismAndAbstractionDz\bin\Debug\PolimorphismAndAbstractionDz.pdb
+C:\Users\адм\Desktop\c#\PolimorphismAndAbstractionDz\PolimorphismAndAbstractionDz\obj\Debug\PolimorphismAndAbstractionDz.csproj.AssemblyReference.cache
+C:\Users\адм\Desktop\c#\PolimorphismAndAbstractionDz\PolimorphismAndAbstractionDz\obj\Debug\PolimorphismAndAbstractionDz.csproj.CoreCompileInputs.cache
+C:\Users\адм\Desktop\c#\PolimorphismAndAbstractionDz\PolimorphismAndAbstractionDz\obj\Debug\PolimorphismAndAbstractionDz.exe
+C:\Users\адм\Desktop\c#\PolimorphismAndAbstractionDz\PolimorphismAndAbstractionDz\obj\Debug\PolimorphismAndAbstractionDz.pdb
